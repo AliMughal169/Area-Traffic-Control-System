@@ -1,0 +1,9 @@
+# core libs (pin numpy to <2 to avoid the ABI issues you hit)
+numpy<2
+opencv-python
+pandas
+tqdm
+ultralytics
+seaborn
+# torch: install with the official PyTorch command for your system (see note below)
+torch
