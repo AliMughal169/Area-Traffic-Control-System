@@ -108,8 +108,8 @@ Click Stop to pause or Quit to exit.
 
 ### 🚦 Detection Example
 ![Detection in Action](resources/pictures/detection_example.png)
-![Detection in Action 2](resources/pictures/ATC running.png)
+![Detection in Action 2](resources/pictures/ATC_running.png)
 ### 🧩 System Flow
-![System Architecture](resources/pictures/ATS flow chart.png)
+![System Architecture](resources/pictures/ATS_flow_chart.png)
 
 
