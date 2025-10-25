@@ -39,7 +39,7 @@ You can:
 ---
 ## 🧠 System Architecture
 
-```text
+
 src/
 └── atc/
     ├── __init__.py
